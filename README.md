@@ -5,10 +5,11 @@ I am a Cybersecurity Enthusiast and SOC Analyst Learner, focused on defensive se
 
 ## Skills
 
-* **Operating Systems:** Linux (Ubuntu, Kali Linux), Windows
-* **Networking & Security:** TCP/IP, Subnetting, Wireshark, Basic SOC Concepts
-* **Programming & Scripting:** Python, Bash Scripting
-* **Security Interests:** OSINT, Ethical Hacking Fundamentals, Threat Hunting
+* **Operating Systems:** Linux ( Kali Linux), Windows
+* **Networking & Security://Web-pentesting/ basic ccna// Soc 
+* **Programming & Scripting:** Python,C,Html,css.java-script,mysql
+* Tryhackme/Letsdefence 
+* **Metasploit /Nmap/wpscan/Burpsuite/Wireshark/gobuster/dirsearch/spiderfroot/hydra OSINT, Ethical Hacking Fundamentals, Threat Hunting
 
 ## Current Focus
 
